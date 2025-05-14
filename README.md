@@ -54,7 +54,7 @@ SERP_API_KEY = "your_serp_api_key"
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/pybot.git
+git clone https://github.com/Vis-Vashishtha25/pybot.git
 ```
 
 ### 2. Install NLTK data
@@ -161,7 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue in the GitHub repository or contact me via email: [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or suggestions, feel free to open an issue in the GitHub repository or contact me via email: [vvashishtha25@gmail.com](mailto:vvashishtha25@gmail.com).
 
 ---
 

@@ -169,6 +169,5 @@ If you have any questions or suggestions, feel free to open an issue in the GitH
 
 This project uses third-party APIs like **Wikipedia** and **SerpAPI**. Please ensure that you have proper API keys and respect the terms of service of the respective APIs.
 
----
 
-That's your **GitHub-style** README! You can adjust the information based on your specific needs or project goals.
+

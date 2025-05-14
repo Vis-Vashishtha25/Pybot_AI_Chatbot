@@ -1,0 +1,6 @@
+nltk
+pyttsx3
+requests
+wikipedia
+speechrecognition
+pyaudio
